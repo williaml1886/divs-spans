@@ -24,6 +24,7 @@ hr {
 
 code {
     color: #CE234C;
+    font-family: "Courier";
 }
 
 .wrapper {
@@ -51,4 +52,7 @@ code {
 
 .blue {
     color: #2884C3;
+}
+.font {
+    color: #013BFF;
 }
